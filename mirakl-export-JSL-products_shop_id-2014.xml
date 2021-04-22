@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<import>
+	<products>
+		<product>
+			<attribute>
+				<code>shop_sku</code>
+				<value><![CDATA[JSL_2014_037]]></value>
+			</attribute>
+			<attribute>
+				<code>gtin_EAN13</code>
+				<value><![CDATA[0000001599589]]></value>
+			</attribute>
+			<attribute>
+				<code>product_category</code>
+				<value><![CDATA[200113|BRASERO|CHAUFFAGE_D_EXTERIEUR|R09-020-001]]></value>
+			</attribute>
+			<attribute>
+				<code>feature_06575_brand</code>
+				<value><![CDATA[LOV_232198]]></value>
+			</attribute>
+			<attribute>
+				<code>i18n_fr_12963_title</code>
+				<value><![CDATA[Clou_38]]></value>
+			</attribute>
+			<attribute>
+				<code>feature_10837_main_color</code>
+				<value><![CDATA[LOV_001063]]></value>
+			</attribute>
+			<attribute>
+				<code>feature_10840_main_material</code>
+				<value><![CDATA[LOV_202608]]></value>
+			</attribute>
+			<attribute>
+				<code>i18n_fr_01022_longdescription</code>
+				<value><![CDATA[Brasero en forme de coupe. Brasero en fonte. Dimensions : 59 x 59 x 20 cm. Petit brasero discret pour se réchauffer et décorer son extérieur. 12 kg. / Dimensions (L x l x H):59 x 59 x 20.5 cm / Marque:ESSCHERT DESIGN / Matière(s):Fonte / Poids:12 kg / Type de produit:Brasero]]></value>
+			</attribute>
+			<attribute>
+				<code>feature_01181_200113|BRASERO|CHAUFFAGE_D_EXTERIEUR|R09-020-001</code>
+				<value><![CDATA[LOV_073316]]></value>
+			</attribute>
+			<attribute>
+				<code>feature_08547_200113|BRASERO|CHAUFFAGE_D_EXTERIEUR|R09-020-001</code>
+				<value><![CDATA[LOV_046410]]></value>
+			</attribute>
+			<attribute>
+				<code>media_1</code>
+				<value><![CDATA[https://media-prod-eu-1.mirakl.net/SOURCE/da7491bbf78f4a85b2efaeeb2a2ef38b]]></value>
+			</attribute>
+			<!-- product_sku:0000001599589 shops:[shop_id:2014] -->
+		</product>
+	</products>
+</import>
